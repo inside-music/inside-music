@@ -1,12 +1,13 @@
 ## Inside Music
 
-Inside Music is a repository of teaching materials for adults in custody originating from the Open Hearts Open Minds music program at Columbia River Correctional Institued in Portland, Ore.
+Inside Music is a repository of teaching materials for adults in custody originating from the [Open Hearts Open Minds](https://openheartsopenminds.org/) music program at Columbia River Correctional Institued in Portland, Ore.
 
 The three initial areas of instruction are
 - Lyric writing
 - Guitar basics
 - Theory basics
 
+All material is licensed under [GPL 3.0](https://github.com/inside-music/inside-music/blob/main/LICENSE), so it is free to download, use and modify, as long as modified materials are also free.
 
 <!--
 **inside-music/inside-music** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
