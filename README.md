@@ -4,7 +4,7 @@ Inside Music is a repository of teaching materials for adults in custody origina
 
 The three initial areas of instruction are
 - Lyric writing
-- Guitar basics
+- [Guitar basics](./guitar)
 - Theory basics
 
 All material is licensed under [GPL 3.0](https://github.com/inside-music/inside-music/blob/main/LICENSE), so it is free to download, use and modify, as long as modified materials are also free.
