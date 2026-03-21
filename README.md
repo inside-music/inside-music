@@ -7,19 +7,18 @@ The three initial areas of instruction are
 - [Guitar basics](./guitar)
 - [Theory basics](./theory)
 
-All material is licensed under [GPL 3.0](https://github.com/inside-music/inside-music/blob/main/LICENSE), so it is free to download, use and modify, as long as modified materials are also free.
+All material is free to use, redistribute and modify under the terms of the terms of the Creative Commons attribution, non-commercial, share-alike license ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
 
-<!--
-**inside-music/inside-music** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Under this license you are free to:
+* Share — copy and redistribute the material in any medium or format
+* Adapt — remix, transform, and build upon the material
 
-Here are some ideas to get you started:
+The licensor cannot revoke these freedoms as long as you follow the license terms.
+### Under the following terms:
+* Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+* NonCommercial — You may not use the material for commercial purposes.
+* ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+Please read the [LICENSE](LICENSE) file for more info.
