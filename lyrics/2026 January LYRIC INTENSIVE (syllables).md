@@ -41,3 +41,6 @@ Writing: Haiku (5/7/5) or Tanka (5/7/5–upper–7/7–lower)
 
 Bonus: Renga Chain  
 Start a tanka conversation, where two or more people exchange complete tankas, each written in response to a received tanka. Another option is to break the tanka into the upper part (5/7/5) and lower part (7/7), with different poets composing the different parts of the same tanka.
+
+FREE 			                © 2026 by inside-music   CC BY-NC-SA 4.0			
+https://creativecommons.org/licenses/by-nc-sa/4.0/ 	https://github.com/inside-music 
