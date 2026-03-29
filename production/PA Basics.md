@@ -26,11 +26,8 @@
     * For each input,   
       * Plug in source  
       * gradually increase the gain until the clip or overload light flashes, then reduce until it no longer flashes.  
-      * Raise master fader to about \-12, then raise channel fader to proper level 
-
-      
-
-  * Powered Speakers  
+      * Raise master fader to about \-12, then raise channel fader to proper level
+* Powered Speakers  
     * Use a balanced, line level output from a mixer.   
       * usually XLR “mic” cable, but can also be a stereo phone, or TRS (tip-ring-sleeve ¼ inch phone plug), or a combo TRS/XLR cable  
       * Can also run unbalanced line-level with TS instrument cables, but this is not suitable over any distance   
