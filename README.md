@@ -6,6 +6,7 @@ The three initial areas of instruction are
 - [Lyric writing](./lyrics)
 - [Guitar basics](./guitar)
 - [Theory basics](./theory)
+- [Production](./production)
 
 All material is free to use, redistribute and modify under the terms of the terms of the Creative Commons attribution, non-commercial, share-alike license ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
 
