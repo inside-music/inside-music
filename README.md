@@ -2,7 +2,7 @@
 
 Inside Music is a free repository of teaching materials for use with adults in custody and others. This material originates from the [Open Hearts Open Minds](https://openheartsopenminds.org/) [Rose City Lyricists](https://openheartsopenminds.org/rose-city-lyricists/) music program at Columbia River Correctional Institute in Portland, Ore.
 
-The three initial areas of instruction are
+Initial areas of instruction are
 - [Lyric writing](./lyrics)
 - [Guitar basics](./guitar)
 - [Theory basics](./theory)
