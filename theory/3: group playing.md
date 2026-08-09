@@ -20,3 +20,9 @@ With practice, you can listen to yourself, your section and the ensemble all at 
 Recognize and understand melody and supporting parts.
 * Melody parts should stand out, but players need to listen to supporting parts to stay in tune and in time
 * Supporting parts play behind the melody dynamically
+
+---
+
+_This material FREE to copy, use, edit, share! © 2026 by inside-music CC BY-NC-SA 4.0_
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+https://github.com/inside-music
