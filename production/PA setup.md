@@ -1,4 +1,4 @@
-# **PA Basics**
+# **PA Setup**
 
 ## ***Components***
 
